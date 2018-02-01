@@ -1,0 +1,8 @@
+1. Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+I think it's because all the files in a repository relate to each other.
+
+2. git log: view all git history
+git diff id-1 id-2: compare two histories 
+
+3. Now that you have your workspace set up, what do you want to try using Git for?
+commit
